@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 4 practice: Vue components and reactivity
 
 Campus Events, the reference app we build together in practice sessions.
@@ -20,3 +21,6 @@ Work through the TODOs in this order:
 
 You are done when `npm test` passes (15 tests) and `npm run check` shows no errors.
 The last App test ("keeps my bookings after a reload") is the bonus.
+=======
+# IP-GIC-e20230455
+>>>>>>> origin/main
